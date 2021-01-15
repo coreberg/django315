@@ -5,6 +5,7 @@ $ git config --global user.name "name"
 $ git config --global user.email "email"
 
 $ git init
+$ git remote add origin https://github.com/coreberg/django315.git
 
 $ git add -A
 $ git status
